@@ -1,5 +1,17 @@
 # Decks Plus website
 
+## Design direction
+Modeled on the higher-end deck/outdoor-living builders (Archadeck,
+Keystone Custom Decks, Custom Outdoor Living) rather than a generic
+contractor template: large lifestyle photography, a muted natural
+palette (deep forest green, warm ivory, brass accent — a nod to the
+company's actual black/gold logo), a serif display font used
+sparingly for big headlines, and generous whitespace. A trust strip
+sits right under the homepage hero, and there's an honest
+testimonials placeholder ready to hold real Google reviews once the
+Business Profile is live — no fabricated reviews were added.
+
+
 Static, no-build-step site for GitHub Pages, using clean URLs
 (e.g. /decks/ instead of /decks.html). Every "page" is actually a
 folder containing an index.html — GitHub Pages automatically serves

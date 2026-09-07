@@ -38,4 +38,28 @@ document.addEventListener("DOMContentLoaded", function () {
       update(range.value);
     });
   });
+
+  /* subtle fade-in-on-scroll for a premium feel.
+     Add class="fade-in" to any section/element to opt it in. */
+  var fadeEls = document.querySelectorAll(".fade-in");
+  if ("IntersectionObserver" in window && fadeEls.length) {
+    var io = new IntersectionObserver(
+      function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("visible");
+            io.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.15 }
+    );
+    fadeEls.forEach(function (el) {
+      io.observe(el);
+    });
+  } else {
+    fadeEls.forEach(function (el) {
+      el.classList.add("visible");
+    });
+  }
 });

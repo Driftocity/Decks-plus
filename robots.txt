@@ -60,4 +60,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://decksplus.example.com/sitemap.xml
+Sitemap: https://deckspluss.com/sitemap.xml

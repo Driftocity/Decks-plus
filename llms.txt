@@ -6,12 +6,12 @@ Decks Plus builds custom decks, patios, fire pits, outdoor kitchens, pergolas, g
 
 ## Pages
 
-- [Home](https://decksplus.example.com/): Overview, featured before/after project, service area.
-- [Decks](https://decksplus.example.com/decks/): Custom wood and composite deck building.
-- [Patios, Fire Pits & Outdoor Kitchens](https://decksplus.example.com/patios-fire-pits/): Flagstone patios, built-in fire pits, outdoor kitchens.
-- [Pergolas & Gazebos](https://decksplus.example.com/pergolas-gazebos/): Custom pergolas and covered outdoor structures.
-- [Fencing & Custom Builds](https://decksplus.example.com/fencing-outdoor-structures/): Fencing, sunrooms, docks, custom builds.
-- [Portfolio](https://decksplus.example.com/portfolio/): Before-and-after project gallery.
-- [Service Area](https://decksplus.example.com/service-areas/): Hamilton County, Carmel, Fishers, Noblesville, Westfield, Kokomo, and Howard County.
-- [About](https://decksplus.example.com/about/): About owner Allen Richards and the company.
-- [Contact](https://decksplus.example.com/contact/): Phone, email, and contact form.
+- [Home](https://deckspluss.com/): Overview, featured before/after project, service area.
+- [Decks](https://deckspluss.com/decks/): Custom wood and composite deck building.
+- [Patios, Fire Pits & Outdoor Kitchens](https://deckspluss.com/patios-fire-pits/): Flagstone patios, built-in fire pits, outdoor kitchens.
+- [Pergolas & Gazebos](https://deckspluss.com/pergolas-gazebos/): Custom pergolas and covered outdoor structures.
+- [Fencing & Custom Builds](https://deckspluss.com/fencing-outdoor-structures/): Fencing, sunrooms, docks, custom builds.
+- [Portfolio](https://deckspluss.com/portfolio/): Before-and-after project gallery.
+- [Service Area](https://deckspluss.com/service-areas/): Hamilton County, Carmel, Fishers, Noblesville, Westfield, Kokomo, and Howard County.
+- [About](https://deckspluss.com/about/): About owner Allen Richards and the company.
+- [Contact](https://deckspluss.com/contact/): Phone, email, and contact form.

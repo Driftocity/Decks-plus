@@ -104,7 +104,7 @@ p{margin:0 0 1em;max-width:62ch;}
   min-width:0;
 }
 .logo-img{
-  height:68px;
+  height:80px;
   width:auto;
   border-radius:2px;
   flex-shrink:0;
@@ -185,7 +185,7 @@ nav.main-nav a[aria-current="page"]{
   .site-header{position:relative;}
 }
 @media(max-width:480px){
-  .logo-img{height:54px;}
+  .logo-img{height:62px;}
   .logo small{display:none;}
   .btn-call{padding:8px 12px;font-size:.8rem;}
   .btn-call .call-word{display:none;}
